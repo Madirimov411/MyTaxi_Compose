@@ -36,7 +36,7 @@ fun BottomSheetView(
         modifier = modifier
             .fillMaxWidth()
             .background(MaterialTheme.appColors.mainBgColor, RoundedCornerShape(topStart = 18.dp, topEnd = 18.dp))
-            .padding(12.dp)
+            .padding(16.dp)
     ){
         Column(
             modifier = Modifier
